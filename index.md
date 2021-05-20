@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="75"></h2>
+<img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="75">
 
 This is the place where I save all the code I learn from my cat! 🐱‍💻
 
