@@ -1,14 +1,8 @@
 <h2> Hi, I'm Ebaa!  <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50"></h2>
-<img align='right' src="Images/Logo.png" width="200">
 
-[![Website](https://img.shields.io/badge/Website-Ebaa.dev-25cfbb?style=flat-square)](https://Ebaa.dev)
+This is the place where I save all the code I learn from my cat! 🐱‍💻
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B73WFJT)
-
-
-**This is the place where I save all the code I learn from my cat!** 🐱‍💻
-
-*Currently working with:*
+Currently working with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=flat-square&logo=Node.js)
@@ -21,9 +15,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCodevs](https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visual-studio-code)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B73WFJT)
 
 ![Discord](https://img.shields.io/badge/Discord-Ebaa%230001-7289DA?style=flat-square&logo=discord)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EbaaCode&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide=prs,issues,contribs)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode)
